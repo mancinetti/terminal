@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 {
   "pluginsFile": "tests/e2e/plugins/index.js"
 }
+=======
+{
+  "pluginsFile": "tests/e2e/plugins/index.js"
+}
+>>>>>>> a0929fdf8fb41b402091ae03dd9287e71c7aaa79

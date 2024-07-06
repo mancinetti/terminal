@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "terminal",
   "integrations": {
@@ -5,3 +6,12 @@
   },
   "type": "vue"
 }
+=======
+{
+  "name": "terminal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
+>>>>>>> a0929fdf8fb41b402091ae03dd9287e71c7aaa79
