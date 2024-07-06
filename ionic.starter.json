@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "Sidemenu Starter",
   "baseref": "main",
@@ -11,17 +10,3 @@
     "test": "npm run build"
   }
 }
-=======
-{
-  "name": "Sidemenu Starter",
-  "baseref": "main",
-  "tarignore": [
-    "node_modules",
-    "package-lock.json",
-    "www"
-  ],
-  "scripts": {
-    "test": "npm run build"
-  }
-}
->>>>>>> a0929fdf8fb41b402091ae03dd9287e71c7aaa79
